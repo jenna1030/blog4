@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://jenna010.gihub.io/blog4/"
 title = "이지현의 포트폴리오"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ko-kr"
