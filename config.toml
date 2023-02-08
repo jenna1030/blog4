@@ -1,0 +1,72 @@
+baseurl = "https://jenna1030.github.io/blog4/"
+title = "이지현의 포트폴리오"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "ko-kr"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "violet"
+  description = "디자인공학과, 컴퓨터공학과 복수전공중"
+  copyright = "&copy;2023 jenna1030"
+  sidebarAbout = [
+    "저는 창의적인 일러스트레이터와 그래픽 디자이너 지망생입니다.",
+    "한국에 거주 중입니다."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "jihyeonie@gmail.com"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+
+  [[params.navlinks]]
+  name = "프로필"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "작업물"
+  url = "portfolio/"
+  home = true
+
+
+  [[params.navlinks]]
+  name = "연락처"
+  url = "contact/"
+
+  [params.social]
+  email         = "email@example.com"
+  instagram     = "full profile url in instagram"
+  github        = "full profile url in github"
+  twitter       = "full profile url in twitter"
+
+  #facebook      = "full page or profile url in facebook"
+  #googleplus    = "full profile url in googleplus"
+
+  #linkedin      = "full profile url in linkedin"
+  #stackoverflow = "full profile url in stackoverflow"
+  #gitlab        = "full profile url in gitlab"
+  #youtube       = "full profile url in youtube"
+  #whatsapp      = "wa.me service link"
