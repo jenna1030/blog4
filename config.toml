@@ -1,4 +1,4 @@
-baseurl = "https://jenna1030.github.io/blog4/"
+baseurl = "/"
 title = "이지현의 포트폴리오"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ko-kr"
