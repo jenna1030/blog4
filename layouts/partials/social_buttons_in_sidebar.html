@@ -1,4 +1,24 @@
 <p class="social">
+  {{ with .Site.Params.social.email }}
+  <a href="mailto:{{ . }}" data-animate-hover="pulse" class="email" title="E-mail">
+    <i class="fa fa-envelope"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.instagram }}
+  <a href="{{ . }}" title="" class="external instagram" title="Instagram" rel="me">
+    <i class="fa fa-instagram"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.github }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="GitHub" rel="me">
+    <i class="fa fa-github"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.gitlab }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="GitLab" rel="me">
+    <i class="fa fa-gitlab"></i>
+  </a>
+  {{end}}
   {{ with .Site.Params.social.facebook }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external facebook" title="Facebook" rel="me">
     <i class="fa fa-facebook"></i>
@@ -14,16 +34,6 @@
     <i class="fa fa-twitter"></i>
   </a>
   {{end}}
-  {{ with .Site.Params.social.instagram }}
-  <a href="{{ . }}" title="" class="external instagram" title="Instagram" rel="me">
-    <i class="fa fa-instagram"></i>
-  </a>
-  {{end}}
-  {{ with .Site.Params.social.email }}
-  <a href="mailto:{{ . }}" data-animate-hover="pulse" class="email" title="E-mail">
-    <i class="fa fa-envelope"></i>
-  </a>
-  {{end}}
   {{ with .Site.Params.social.linkedin }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external" title="LinkedIn" rel="me">
     <i class="fa fa-linkedin"></i>
@@ -32,16 +42,6 @@
   {{ with .Site.Params.social.stackoverflow }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external" title="Stack Overflow" rel="me">
     <i class="fa fa-stack-overflow"></i>
-  </a>
-  {{end}}
-  {{ with .Site.Params.social.github }}
-  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="GitHub" rel="me">
-    <i class="fa fa-github"></i>
-  </a>
-  {{end}}
-  {{ with .Site.Params.social.gitlab }}
-  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="GitLab" rel="me">
-    <i class="fa fa-gitlab"></i>
   </a>
   {{end}}
   {{ with .Site.Params.social.youtube }}
