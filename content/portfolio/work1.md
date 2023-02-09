@@ -1,31 +1,22 @@
 +++
-showonlyimage = true
-draft = false
-image = "img/portfolio/a4-paper.jpg"
-date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
-weight = 0
+showonlyimage = false
+draft = false 
+image = "img/portfolio/2021_dream-city-twins.jpeg"
+date = "2021-03-11"
+title = "Dream, City, Twins"
+weight = 1
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+2021 마커로 만든 그림
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+![2021_dream-city-twins][1]
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+>기초디자인 과제
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+꿈, 도시, 쌍둥이를 주제로 그린 그림. 
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+도시가 물에 비치는 부분이 마치 쌍둥이 같다고 생각하여 바다에 비치는 도시를 그렸습니다. 아래 물결치는 것을 표현하기 위하여 끊어지는 물결선을 이용하여 그렸습니다. 또한 원래 현실에 나와있는 도시의 하늘에는 바닷속같은 물고기들이, 물에 비치는 도시의 하늘에는 별이 떠 있는 모습을 그려 내어 마치 우리가 알고 있는 세상이 뒤바뀐 꿈처럼 표현하였습니다.
 
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/portfolio/2021_dream-city-twins.jpeg
