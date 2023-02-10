@@ -2,37 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jenna1030.github.io/blog4/portfolio/work1/</loc>
+    <loc>https://jenna1030.github.io/blog4/2021-project/work1/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jenna1030.github.io/blog4/portfolio/work2/</loc>
+    <loc>https://jenna1030.github.io/blog4/2022-project/work1/</loc>
+    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jenna1030.github.io/blog4/2022-project/work2/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url><url>
-    <loc>https://jenna1030.github.io/blog4/portfolio/work3/</loc>
+    <loc>https://jenna1030.github.io/blog4/2022-project/work3/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://jenna1030.github.io/blog4/portfolio/work4/</loc>
+    <loc>https://jenna1030.github.io/blog4/2022-project/work4/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url><url>
-    <loc>https://jenna1030.github.io/blog4/portfolio/work5/</loc>
+    <loc>https://jenna1030.github.io/blog4/2022-project/work5/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url><url>
-    <loc>https://jenna1030.github.io/blog4/portfolio/work6/</loc>
+    <loc>https://jenna1030.github.io/blog4/2021-project/work6/</loc>
     <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>https://jenna1030.github.io/blog4/portfolio/work7/</loc>
+    <loc>https://jenna1030.github.io/blog4/2021-project/work7/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url><url>
-    <loc>https://jenna1030.github.io/blog4/portfolio/work8/</loc>
+    <loc>https://jenna1030.github.io/blog4/2021-project/work8/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://jenna1030.github.io/blog4/portfolio/work9/</loc>
+    <loc>https://jenna1030.github.io/blog4/2021-project/work9/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url><url>
-    <loc>https://jenna1030.github.io/blog4/portfolio/work10/</loc>
+    <loc>https://jenna1030.github.io/blog4/2021-project/work10/</loc>
     <lastmod>2016-11-05T20:22:08+05:30</lastmod>
   </url><url>
-    <loc>https://jenna1030.github.io/blog4/portfolio/work11/</loc>
+    <loc>https://jenna1030.github.io/blog4/2021-project/work11/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url><url>
     <loc>https://jenna1030.github.io/blog4/about/</loc>
@@ -41,7 +44,10 @@
     <loc>https://jenna1030.github.io/blog4/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jenna1030.github.io/blog4/portfolio/</loc>
+    <loc>https://jenna1030.github.io/blog4/2021-project/</loc>
+    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jenna1030.github.io/blog4/2022-project/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jenna1030.github.io/blog4/contact/</loc>

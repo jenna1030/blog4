@@ -47,18 +47,26 @@ publishDir = "docs"
   # Nav links in the side bar
 
   [[params.navlinks]]
-  name = "프로필"
-  url = "about/"
+  name = "2022"
+  url = "2022-project/"
 
   [[params.navlinks]]
-  name = "작업물"
-  url = "portfolio/"
+  name = "2021"
+  url = "2021-project/"
   home = true
+
 
 
   [[params.navlinks]]
   name = "연락처"
   url = "contact/"
+  
+
+  
+  [[params.navlinks]]
+  name = "프로필"
+  url = "about/"
+
 
   [params.social]
   email         = "jihyeonie@gmail.com"
