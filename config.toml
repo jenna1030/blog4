@@ -1,6 +1,6 @@
 baseurl = "https://jenna1030.github.io/blog4/"
 canonifyurls = true
-title = "이지현의 포트폴리오"
+title = "Jenna's portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ko-kr"
 # Enable comments by entering your Disqus shortname
@@ -17,11 +17,10 @@ publishDir = "docs"
   # custom_css = "css/custom.css"
 
   style = "custom.css"
-  description = "디자인공학과, 컴퓨터공학과 복수전공중"
-  copyright = "&copy;2023 jenna1030"
+  description = "Double major in computer engineering design engineering."
+  copyright = "&copy;2024 jenna1030"
   sidebarAbout = [
-    "저는 창의적인 일러스트레이터와 그래픽 디자이너 지망생입니다.",
-    "한국에 거주 중입니다."
+    "Double major in computer engineering design engineering. <br> Currently pursuing my bachelor’s degree."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
