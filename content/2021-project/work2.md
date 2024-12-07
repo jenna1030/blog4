@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "img/portfolio/2021_scorpion1.png"
-date = "2016-11-05T19:56:17+05:30"
+date = "2021-03-12"
 title = "Scorpion"
 showonlyimage = false
 weight = 2
