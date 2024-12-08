@@ -17,10 +17,10 @@ publishDir = "docs"
   # custom_css = "css/custom.css"
 
   style = "custom.css"
-  description = "Double major in computer engineering design engineering."
+  description = "Jenna's portfolio"
   copyright = "&copy;2024 jenna1030"
   sidebarAbout = [
-    "Double major in computer engineering design engineering. <br> Currently pursuing my bachelor’s degree."
+    "Currently pursuing a bachelor’s degree in computer engineering and design engineering, exploring innovative ways to bridge technology and design."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
