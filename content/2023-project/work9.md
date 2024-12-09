@@ -1,10 +1,10 @@
 +++
 showonlyimage = false
 draft = false 
-image = "img/2023/logo/nightweaver.png"
+image = "img/2023/creature/creature.jpg"
 date = "2023-1-11"
-title = "web logo"
-weight = 7
+title = "Creature design"
+weight = 9
 +++
 
 <!--more-->
