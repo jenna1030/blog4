@@ -64,7 +64,6 @@ publishDir = "docs"
   [[params.navlinks]]
   name = "2023"
   url = "2023-project/"
-  home = true
 
 
   [[params.navlinks]]
@@ -73,8 +72,7 @@ publishDir = "docs"
 
   [[params.navlinks]]
   name = "2021"
-  url = "2024-project/"
-  home = true
+  url = "2021-project/"
 
 
 
