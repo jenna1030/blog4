@@ -7,8 +7,6 @@ title = "card usb design"
 weight = 3
 +++
 
-USB card design
-
 <!--more-->
 
 ![usb][1]
