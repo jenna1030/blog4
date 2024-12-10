@@ -4,7 +4,7 @@ draft = false
 image = "img/2023/AGen/Agen.png"
 date = "2023-1-11"
 title = "Logo 'AGen'"
-weight = 11
+weight = 5
 +++
 
 <!--more-->

@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-draft = false 
+draft = true 
 image = "img/2023/manual/paper_airplain.jpg"
 date = "2023-12"
 title = "Origami Instructions"
