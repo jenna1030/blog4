@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/2023/poster/beauty.jpg"
+image = "img/2023/poster/web.png"
 date = "2023-3-11"
 title = "Costume Humidifier"
 weight = 2

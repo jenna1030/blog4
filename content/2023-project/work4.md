@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false 
-image = "img/2023/3drendering/beauty.jpg"
+image = "img/2023/3drendering/big.png"
 date = "2023-12"
 title = "3d rendering poster"
 weight = 4
