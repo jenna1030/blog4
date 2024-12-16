@@ -13,17 +13,21 @@ Hilltop village cleaning robot with snow removal function
 
 ![2024_tidy][1]
 
-> 기초디자인 과제
+> Cleaning Robot 'TIDY'
 
-그림자만으로 전체 그림이 무엇인지 꺠달을 수 있는 연속성을 주제로 그렸습니다. 선이 중간중간 끊겨 있지만 누가 보더라도 전갈임을 알 수 있는 그림들이며, 이러한 연속성을 강조하기 위해 몸통을 지운 그림이 마지막 그림 입니다. 전갈이 보이시나요?
+'TIDY' is a multi-functional cleaning robot specifically designed to navigate and clean challenging environments like hilltop villages. With its advanced snow removal capabilities and unique wheel system, it efficiently climbs stairs while maintaining stability and balance.
+
+The compact, sleek design—featuring soft blue and white tones—emphasizes practicality and modern aesthetics. This innovative robot ensures cleanliness in hard-to-reach areas, offering both functionality and a futuristic appeal for urban and rural settings alike.
 
 ![tidy_fullshot][2]
 
-> 기초디자인 과제
-
-그림자만으로 전체 그림이 무엇인지 꺠달을 수 있는 연속성을 주제로 그렸습니다. 선이 중간중간 끊겨 있지만 누가 보더라도 전갈임을 알 수 있는 그림들이며, 이러한 연속성을 강조하기 위해 몸통을 지운 그림이 마지막 그림 입니다. 전갈이 보이시나요?
-
 ![tidy_explode][3]
+
+> Exploded View:
+
+The exploded diagram highlights the robot's modular design, breaking down its core components for clarity.
+
+Key elements like the snow removal brush, compact body structure, multi-functional wheels, and light indicators are revealed, emphasizing its functional integration and ease of assembly.
 
 ![detail_light][4]
 
