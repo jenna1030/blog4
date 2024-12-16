@@ -11,10 +11,10 @@ weight = 6
 
 ![card][1]
 
-> 기초디자인 과제
+> iPhone MagSafe Card Wallet Design
 
-꿈, 도시, 쌍둥이를 주제로 그린 그림.
+This MagSafe card wallet design features a dynamic and mystical underwater theme centered on a gracefully illustrated manta ray. The vibrant blue tones and glowing neon outlines evoke a sense of depth and tranquility, while the geometric shapes and nautical details, such as anchors and compasses, add a modern, futuristic touch.
 
-도시가 물에 비치는 부분이 마치 쌍둥이 같다고 생각하여 바다에 비치는 도시를 그렸습니다. 아래 물결치는 것을 표현하기 위하여 끊어지는 물결선을 이용하여 그렸습니다. 또한 원래 현실에 나와있는 도시의 하늘에는 바닷속같은 물고기들이, 물에 비치는 도시의 하늘에는 별이 떠 있는 모습을 그려 내어 마치 우리가 알고 있는 세상이 뒤바뀐 꿈처럼 표현하였습니다.
+This design not only highlights aesthetic appeal but also brings functionality and elegance to everyday tech accessories, making it perfect for anyone seeking a stylish and immersive card wallet experience.
 
 [1]: /img/2023/card/card.jpg
