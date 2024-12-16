@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-draft = false
+draft = true
  
 image = "img/2023/logo/nightweaver.png"
 date = "2023-1-11"

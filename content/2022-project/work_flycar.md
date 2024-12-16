@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-draft = true
+draft = false
 image = "img/2023/photoshop/flycar.jpg"
 date = "2023-12-14"
 title = "Car 2D rendering by photoshop"
