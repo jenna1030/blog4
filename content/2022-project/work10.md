@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-draft = true 
+draft = false 
 image = "img/2023/sea/sea.jpg"
 date = "2023-1-11"
 title = "Sea"

@@ -1,10 +1,10 @@
 +++
 showonlyimage = false
-draft = true 
-image = "img/2023/card/card_design.png"
+draft = false 
+image = "img/2023/manual/paper_airplain.jpg"
 date = "2023-12"
-title = "card wallet design"
-weight = 6
+title = "Origami Instructions"
+weight = 3
 +++
 
 <!--more-->
